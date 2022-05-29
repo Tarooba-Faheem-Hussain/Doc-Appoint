@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity implements CourseRVAdapter.C
         courseNameTV.setText(modal.getCourseName());
         courseDescTV.setText(modal.getCourseDescription());
         suitedForTV.setText("Suited for " + modal.getBestSuitedFor());
-        priceTV.setText("Rs." + modal.getCoursePrice());
+        priceTV.setText("" + modal.getCoursePrice());
         Picasso.get().load(modal.getCourseImg()).into(courseIV);
         Button viewBtn = layout.findViewById(R.id.idBtnVIewDetails);
         Button editBtn = layout.findViewById(R.id.idBtnEditCourse);

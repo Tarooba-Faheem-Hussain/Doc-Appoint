@@ -26,7 +26,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Name"
+                android:hint="Enter Doctor Name"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:hintTextColor="@color/white">
@@ -52,7 +52,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Price"
+                android:hint="Appointment Date"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:boxStrokeColor="@color/purple_200"
@@ -80,7 +80,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Suited For"
+                android:hint="Case"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:hintTextColor="@color/white">
@@ -106,7 +106,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Image Link"
+                android:hint="Appointment Image Link"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:hintTextColor="@color/white">
@@ -132,7 +132,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Link"
+                android:hint="Enter Appointment Link"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:hintTextColor="@color/white">
@@ -159,7 +159,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
-                android:hint="Enter Course Description"
+                android:hint="Enter Case Details"
                 android:padding="5dp"
                 android:textColorHint="@color/white"
                 app:hintTextColor="@color/white">
@@ -186,7 +186,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/custom_button_back"
-                android:text="Add Your Course"
+                android:text="Add Your Appointment"
                 android:textAllCaps="false" />
 
 
