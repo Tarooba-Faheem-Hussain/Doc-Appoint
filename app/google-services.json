@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166145572870",
+    "project_id": "doc-appoint-d210e",
+    "storage_bucket": "doc-appoint-d210e.appspot.com",
+    "firebase_url": "https://doc-appoint-d210e-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166145572870:android:467510ffe335812fda0387",
+        "android_client_info": {
+          "package_name": "com.Project.docappoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166145572870-0monpj3i5vthi0cfoie7btcgau61ep5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Project.docappoint",
+            "certificate_hash": "0c0d06f3b7af9e2e614400682eead779dcca7081"
+          }
+        },
+        {
+          "client_id": "166145572870-6trc0u71vktlt3svenibfr52aqkf90of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPr1RK_cs9a6jBRz3h3sF9IvGFvnrKkFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166145572870-6trc0u71vktlt3svenibfr52aqkf90of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
